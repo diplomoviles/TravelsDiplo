@@ -48,6 +48,13 @@ dependencies {
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
     implementation(libs.firebase.auth)
+
+    //Glide
+    implementation("com.github.bumptech.glide:glide:4.15.1")
+
+    //SDK de Facebook
+    implementation("com.facebook.android:facebook-android-sdk:latest.release")
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

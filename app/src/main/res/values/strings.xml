@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Travels Diplo</string>
+
+    <string name="facebook_app_id" templateMergeStrategy="preserved" translatable="false">832988185393244</string>
+    <string name="fb_login_protocol_scheme" templateMergeStrategy="preserved" translatable="false">fb832988185393244</string>
+    <string name="facebook_client_token" templateMergeStrategy="preserved" translatable="false">6cc02129b854532d7eaf68e1b3fccd35</string>
+
+
 </resources>
